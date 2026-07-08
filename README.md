@@ -5,7 +5,7 @@ This lab focuses on designing, configuring, and validating an effective Intrusio
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 To configure an effective and efficient **Intrusion Detection System (IDS)** that enhances the security posture of the network infrastructure by:
 
@@ -17,7 +17,7 @@ To configure an effective and efficient **Intrusion Detection System (IDS)** tha
 
 ---
 
-## 🧠 Skills Learned
+##  Skills Learned
 
 - Identification of network assets (servers, workstations, routers, switches, and other devices)  
 - Determining strategic sensor placement within network architecture  
@@ -35,7 +35,7 @@ To configure an effective and efficient **Intrusion Detection System (IDS)** tha
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - **Security Information and Event Management (SIEM)**  
   For log ingestion, correlation, and analysis.
@@ -48,7 +48,7 @@ To configure an effective and efficient **Intrusion Detection System (IDS)** tha
 
 ---
 
-## 📐 Steps
+##  Steps
 
 Below are the IDS configuration and validation steps performed during the lab:
 
@@ -86,7 +86,7 @@ These represent sequential IDS setup, rule creation, tuning, and attack simulati
 
 ---
 
-## 📄 Summary
+##  Summary
 
 This lab provided hands‑on experience with:
 
@@ -100,14 +100,14 @@ It serves as a foundational exercise for developing practical defensive cybersec
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions and enhancements are welcome.  
 Please open an issue or submit a pull request.
 
 ---
 
-## 📜 License
+##  License
 
 This project is licensed under the MIT License.
 
